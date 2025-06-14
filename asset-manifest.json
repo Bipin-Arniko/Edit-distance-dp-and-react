@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Edit-distance-dp-and-react/static/css/main.1d6bb9b6.css",
+    "main.js": "/Edit-distance-dp-and-react/static/js/main.750eb71f.js",
+    "static/js/787.37ca354d.chunk.js": "/Edit-distance-dp-and-react/static/js/787.37ca354d.chunk.js",
+    "static/media/text.txt": "/Edit-distance-dp-and-react/static/media/text.73aaa7e7e6a738df28c4.txt",
+    "static/media/logo.svg": "/Edit-distance-dp-and-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Edit-distance-dp-and-react/index.html",
+    "main.1d6bb9b6.css.map": "/Edit-distance-dp-and-react/static/css/main.1d6bb9b6.css.map",
+    "main.750eb71f.js.map": "/Edit-distance-dp-and-react/static/js/main.750eb71f.js.map",
+    "787.37ca354d.chunk.js.map": "/Edit-distance-dp-and-react/static/js/787.37ca354d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d6bb9b6.css",
+    "static/js/main.750eb71f.js"
+  ]
+}
